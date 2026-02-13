@@ -1,6 +1,6 @@
-numpy>=1.24.0
-ccxt>=4.0.0
-pandas>=2.0.0
+python-binance
+python-telegram-bot
+pandas
 pandas-ta
-python-telegram-bot>=20.0
-tweepy
+numpy
+requests
